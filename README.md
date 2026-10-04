@@ -3,8 +3,8 @@
 Full-stack intelligent campus management system.
 
 ## Architecture
-- **Frontend**: React + TypeScript + Vite + Tailwind CSS
-- **Backend**: Node.js + Express + TypeScript + MongoDB
+- **Frontend**: React + Javascript + Vite + Tailwind CSS
+- **Backend**: Node.js + Express + Javascript + MongoDB
 - **AI Service**: Python + FastAPI + Qdrant (Vector DB)
 
 ## Structure
